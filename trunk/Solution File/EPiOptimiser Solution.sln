@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPiOptimiser", "..\EPiOptimiser\EPiOptimiser.csproj", "{19636E37-F69B-49D4-9324-51CA660D9792}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EPiOptimiser", "..\Source\EPiOptimiser.csproj", "{19636E37-F69B-49D4-9324-51CA660D9792}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
