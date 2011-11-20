@@ -1,5 +1,0 @@
-C:\Projects\tools\EPiPlugInScanner\EPiPlugInScanner\EPiInitialisationScanner\bin\Debug\EPiInitScanner.dll
-C:\Projects\tools\EPiPlugInScanner\EPiPlugInScanner\EPiInitialisationScanner\bin\Debug\EPiInitScanner.pdb
-C:\Projects\tools\EPiPlugInScanner\EPiPlugInScanner\EPiInitialisationScanner\obj\Debug\ResolveAssemblyReference.cache
-C:\Projects\tools\EPiPlugInScanner\EPiPlugInScanner\EPiInitialisationScanner\obj\Debug\EPiInitScanner.dll
-C:\Projects\tools\EPiPlugInScanner\EPiPlugInScanner\EPiInitialisationScanner\obj\Debug\EPiInitScanner.pdb
