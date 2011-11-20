@@ -1,0 +1,7 @@
+C:\Projects\tools\EPiOptimiser\trunk\EPiOptimiser\bin\Release\EPiOptimiser.exe
+C:\Projects\tools\EPiOptimiser\trunk\EPiOptimiser\bin\Release\EPiOptimiser.pdb
+C:\Projects\tools\EPiOptimiser\trunk\EPiOptimiser\bin\Release\EPiServer.dll
+C:\Projects\tools\EPiOptimiser\trunk\EPiOptimiser\bin\Release\EPiServer.Framework.dll
+C:\Projects\tools\EPiOptimiser\trunk\EPiOptimiser\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\tools\EPiOptimiser\trunk\EPiOptimiser\obj\Release\EPiOptimiser.exe
+C:\Projects\tools\EPiOptimiser\trunk\EPiOptimiser\obj\Release\EPiOptimiser.pdb
