@@ -1,0 +1,7 @@
+C:\Projects\tools\EPiPlugInScanner\EPiPlugInScanner\EPiInitialisationScanner\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\tools\EPiPlugInScanner\EPiPlugInScanner\EPiInitialisationScanner\bin\Debug\EPiServer.dll
+C:\Projects\tools\EPiPlugInScanner\EPiPlugInScanner\EPiInitialisationScanner\bin\Debug\EPiServer.Framework.dll
+C:\Projects\tools\EPiPlugInScanner\EPiPlugInScanner\EPiInitialisationScanner\bin\Debug\EPiOptimiser.exe
+C:\Projects\tools\EPiPlugInScanner\EPiPlugInScanner\EPiInitialisationScanner\bin\Debug\EPiOptimiser.pdb
+C:\Projects\tools\EPiPlugInScanner\EPiPlugInScanner\EPiInitialisationScanner\obj\Debug\EPiOptimiser.exe
+C:\Projects\tools\EPiPlugInScanner\EPiPlugInScanner\EPiInitialisationScanner\obj\Debug\EPiOptimiser.pdb
